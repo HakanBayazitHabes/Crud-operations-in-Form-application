@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\NLayerAppDemo15\Northwind.DataAccessLayer\bin\Debug\Northwind.DataAccessLayer.dll.config
+C:\Users\user\Desktop\NLayerAppDemo15\Northwind.DataAccessLayer\bin\Debug\Northwind.DataAccessLayer.dll
+C:\Users\user\Desktop\NLayerAppDemo15\Northwind.DataAccessLayer\bin\Debug\Northwind.DataAccessLayer.pdb
+C:\Users\user\Desktop\NLayerAppDemo15\Northwind.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\NLayerAppDemo15\Northwind.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\NLayerAppDemo15\Northwind.DataAccessLayer\bin\Debug\Northwind.Entities.dll
+C:\Users\user\Desktop\NLayerAppDemo15\Northwind.DataAccessLayer\bin\Debug\Northwind.Entities.pdb
+C:\Users\user\Desktop\NLayerAppDemo15\Northwind.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\NLayerAppDemo15\Northwind.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\NLayerAppDemo15\Northwind.DataAccessLayer\obj\Debug\Northwind.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NLayerAppDemo15\Northwind.DataAccessLayer\obj\Debug\Northwind.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NLayerAppDemo15\Northwind.DataAccessLayer\obj\Debug\Northwind.DataAccessLayer.csproj.CopyComplete
+C:\Users\user\Desktop\NLayerAppDemo15\Northwind.DataAccessLayer\obj\Debug\Northwind.DataAccessLayer.dll
+C:\Users\user\Desktop\NLayerAppDemo15\Northwind.DataAccessLayer\obj\Debug\Northwind.DataAccessLayer.pdb
+C:\Users\user\Desktop\NLayerAppDemo15\Northwind.DataAccessLayer\bin\Debug\Northwind.Entities.dll.config
